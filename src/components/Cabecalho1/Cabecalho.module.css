@@ -11,12 +11,12 @@
   }
   
   .imgLogo {
-    height: 80px; /* altura da logo ajustada */
+    height: 100px; /* altura da logo ajustada */
     width: auto;  /* mantém proporção */
   }
   
   .imgBandeira {
-    height: 100px; /* altura da bandeira */
-    width: auto;
+    height: 120px; /* altura da bandeira */
+    width: none;
   }
   
